@@ -1,2 +1,2 @@
 # odin-recipes
-Uppskriftavefsíða
+Vefsíða gerð með HTML sem heldur utan um mataruppskriftir.
